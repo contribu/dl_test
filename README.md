@@ -161,6 +161,20 @@ https://qiita.com/KEINOS/items/4c66eeda4347f8c13abb
 CPU使用率を見たところ、
 並列化はされているらしい。
 
+## 自前のactivation
+
+test1.py参照
+
+## 自前の
+
+## 自前のoptimizer
+
+自前のoptimizerを作りたい場合
+
+- https://github.com/keras-team/keras/blob/a07253d8269e1b750f0a64767cc9a07da8a3b7ea/keras/optimizers.py
+- https://groups.google.com/forum/#!topic/keras-users/Nhn0HMnFDWo
+- https://stackoverflow.com/questions/42324140/how-to-change-keras-optimizer-code
+
 ## 実行
 
 https://github.com/keras-team/keras/blob/master/examples/mnist_mlp.py
@@ -178,4 +192,4 @@ pipenv run python test1.py
 
 ## LICENSE
 
-The license of all contents in this repository is CC0.
+The license of all files in this repository is CC0, excepting the files of which the license is explicitly specified.
